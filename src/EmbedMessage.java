@@ -39,7 +39,7 @@ JTextField pass;
     JPanel p = new JPanel(new FlowLayout());
       l1 = new JLabel();
      l1.setFont(new java.awt.Font("Telegrafico", 1, 20));
-     l1.setText("PIN");
+     l1.setText("Password");
      pass = new JTextField(10);
       p.add(l1);
      p.add(pass);
