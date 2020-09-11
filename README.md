@@ -5,7 +5,7 @@ Features:
 1. Hiding existence of text.
 2. Password protected(max10 digits).
 3. Password encryption.
-4. Encoding/Decoding text into image.
+4. Embedding text into image and decoding text from image.
 
 Requirements:
 1. Java 7 or above.
