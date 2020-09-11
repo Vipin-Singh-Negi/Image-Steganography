@@ -36,5 +36,6 @@ Step 2: Select Encode.
   Step 4: Close
             
  Happy Image Steganography.
+ 
  Author: Vipin Singh Negi
       
