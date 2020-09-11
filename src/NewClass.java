@@ -33,7 +33,7 @@ import java.util.regex.Pattern;
     p.add(open);
     p.add(decode);
     p.add(reset);
-    passL = new JLabel("PIN");
+    passL = new JLabel("Password");
     p.add(passL);
     pass = new JTextField(10);
     p.add(pass);
