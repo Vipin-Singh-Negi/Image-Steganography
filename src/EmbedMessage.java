@@ -159,7 +159,7 @@ JTextField pass;
        return;
     }
     
-    messageLength += Pass.length();
+ 
     int imageWidth = img.getWidth(), imageHeight = img.getHeight(),
        imageSize = imageWidth * imageHeight;
     if(messageLength * 8 + 32 > imageSize) {
