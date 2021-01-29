@@ -13,8 +13,8 @@ Requirements:
 3. Window/Linux
 4. Pentium or above equivalent CPU.
 
-#####Step 1: Run the program in NetbeansIDE or any other IDE.
-#####Step 2: Select Encode.
+####Step 1: Run the program in NetbeansIDE or any other IDE.
+####Step 2: Select Encode.
       
         ENCODE
            Step 2.1: Click open and browse image to be encoded with text.  
@@ -26,7 +26,7 @@ Requirements:
            
  
 
-#####Step 3: Select Decode from main window.
+####Step 3: Select Decode from main window.
         
          DECODE
            Step 3.1: Click open and browse image to be decoded.  
@@ -35,7 +35,9 @@ Requirements:
            Step 3.4: Message will appear if correct key is inserted.
            Step 3.5: Close.
   
-  Step 4: Close
+  
+
+####Step 4: Close
             
  Happy Image Steganography.
  
