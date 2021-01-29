@@ -13,8 +13,8 @@ Requirements:
 3. Window/Linux
 4. Pentium or above equivalent CPU.
 
-Step 1: Run the program in NetbeansIDE or any other IDE.
-Step 2: Select Encode.
+#####Step 1: Run the program in NetbeansIDE or any other IDE.
+#####Step 2: Select Encode.
       
         ENCODE
            Step 2.1: Click open and browse image to be encoded with text.  
@@ -24,7 +24,9 @@ Step 2: Select Encode.
            Step 2.5: Save the steganographed image file by clicking save button.
            Step 2.6: Close.
            
- Step 3: Select Decode from main window.
+ 
+
+#####Step 3: Select Decode from main window.
         
          DECODE
            Step 3.1: Click open and browse image to be decoded.  
