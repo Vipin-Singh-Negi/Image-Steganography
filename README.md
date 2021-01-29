@@ -1,20 +1,20 @@
 # Image-Steganography
 This projects implements steganography on image using LSB algorithm. This application can be very useful in scenario where one need to hide to existence of message using images which can be transferred easily. This can be used to communicate secretly.
 
-Features:
+#### Features:
 1. Hiding existence of text.
 2. Password protected(max10 digits).
 3. Password encryption.
 4. Embedding text into image and decoding text from image.
 
-Requirements:
+#### Requirements:
 1. Java 7 or above.
 2. 1 GB RAM
 3. Window/Linux
 4. Pentium or above equivalent CPU.
 
-####Step 1: Run the program in NetbeansIDE or any other IDE.
-####Step 2: Select Encode.
+#### Step 1: Run the program in NetbeansIDE or any other IDE.
+#### Step 2: Select Encode.
       
         ENCODE
            Step 2.1: Click open and browse image to be encoded with text.  
@@ -26,7 +26,7 @@ Requirements:
            
  
 
-####Step 3: Select Decode from main window.
+#### Step 3: Select Decode from main window.
         
          DECODE
            Step 3.1: Click open and browse image to be decoded.  
@@ -37,7 +37,7 @@ Requirements:
   
   
 
-####Step 4: Close
+#### Step 4: Close
             
  Happy Image Steganography.
  
