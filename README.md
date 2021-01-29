@@ -42,5 +42,4 @@ This projects implements steganography on image using LSB algorithm. This applic
  Happy Image Steganography.
  
  #### Author: Vipin Singh Negi
- #### Email : vipinsinghnegi7@gmail.com
-      
+
